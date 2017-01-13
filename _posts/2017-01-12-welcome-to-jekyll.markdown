@@ -4,6 +4,15 @@ title:  "Ham on Rye!"
 date:   2017-01-12 21:40:00 -0700
 categories: jekyll update
 ---
+<style type="text/css">
+  body {
+    background-color: rgb(43, 236, 42);
+  }
+  p {
+    border: 1px solid black;
+  }
+</style>
+
 
 Chimichanga
 
